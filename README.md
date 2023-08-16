@@ -1,6 +1,6 @@
-# Clube de Programação AwesomeCode
+# Clube de Programação Fusion
 
-Bem-vindo ao Clube de Programação AwesomeCode! Aqui, estamos dedicados a aprender, praticar e aprimorar nossas habilidades de programação de maneira colaborativa e divertida. Se você é um entusiasta da codificação, independentemente do nível de experiência, este é o lugar certo para você.
+Bem-vindo ao Clube de Programação Fusion! Aqui, estamos dedicados a aprender, praticar e aprimorar nossas habilidades de programação de maneira colaborativa e divertida. Se você é um entusiasta da codificação, independentemente do nível de experiência, este é o lugar certo para você.
 
 ## Objetivos
 
@@ -31,6 +31,6 @@ Para fazer parte do clube, siga os seguintes passos:
 
 3. Se possível se apresente para que todos possam lhe conhecer.
 
-Lembre-se, estamos todos aqui para aprender e crescer juntos, seja respeitoso e aproveite ao máximo sua jornada de programação no Clube AwesomeCode!
+Lembre-se, estamos todos aqui para aprender e crescer juntos, seja respeitoso e aproveite ao máximo sua jornada de programação no Clube Fusion!
 
 <small>_*Última atualização: Agosto de 2023*_</small>
