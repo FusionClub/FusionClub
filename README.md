@@ -14,11 +14,11 @@ Nosso clube tem como objetivo fornecer um ambiente acolhedor para pessoas intere
 
 ## Funcionamento
 
-O clube possue uma série de regras que devem ser seguidas além de demais informações, para isso, leia: **[Como funciona](funcionamento.md)**
+O clube possue uma série de regras que devem ser seguidas além de demais informações, para isso, leia: **[como funciona](funcionamento.md)**
 
 ## Como aprender
 
-Para esse primeiro momento do clube, será explorado programação Web, começando pelo Frontend: **[Passo a passo e recursos para aprender a programar](programacao.md)**
+Para esse primeiro momento do clube, será explorado programação Web, começando pelo Frontend: **[passo a passo e recursos para aprender a programar](programacao.md)**
 
 ## Participar
 

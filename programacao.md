@@ -26,6 +26,8 @@ A prática consistente é a chave para se tornar um programador habilidoso. Rese
 A programação é um campo em constante evolução, então esteja preparado para aprender continuamente. Mantenha-se atualizado com as últimas tendências, tecnologias e melhores práticas por meio de blogs, cursos, conferências e livros.
 Lembre-se de que a programação é um processo contínuo de aprendizado e prática. Não tenha medo de cometer erros e enfrentar desafios, pois isso faz parte do processo de crescimento como programador.
 
+<br />
+
 ## Introdução das tecnologias
 
 Recomendamos que assistam aos vídeos informativos do Código Fonte TV que estão logo abaixo para conhecerem as tecnologias que estaremos explorando na primeira fase de nosso clube.
@@ -40,9 +42,13 @@ Esses vídeos serão uma parte valiosa da nossa jornada para nos tornarmos progr
 -   [GITHUB // Dicionário do Programador](https://youtu.be/myQuetgSEsY)
 -   [React JS // Dicionário do Programador](https://youtu.be/NhUr8cwDiiM)
 
+<br />
+
 ## Mapa de estudos
 
 Uma site incrível que gostaria de compartilhar é o https://roadmap.sh/. Ele oferece inúmeros mapas de estudos detalhados, sendo um roteiro claro sobre o que estudar em diversas áreas, um recurso valioso para quem busca direcionamento em seus estudos de tecnologia.
+
+<br />
 
 ## Máteriais
 
@@ -64,6 +70,8 @@ Cursos completos e atuais de HTML5 e CSS3 do Curso em Vídeo
 -   [Módulo 3](https://www.youtube.com/watch?v=ofFgnDtn_1c&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ)
 -   [Módulo 4](https://www.youtube.com/watch?v=zHKHMmEG9vE&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT)
 
+<hr />
+
 ### JavaScript
 
 **Sites para pesquisa:**
@@ -76,6 +84,8 @@ Cursos completos e atuais de HTML5 e CSS3 do Curso em Vídeo
 -   [Curso em Vídeo: Curso Grátis de JavaScript e ECMAScript para Iniciantes](https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm)
 -   [Matheus Battisti - Hora de Codar: Curso de JavaScript](https://www.youtube.com/watch?v=TkD0QMyBa28&list=PLnDvRpP8BneysKU8KivhnrVaKpILD3gZ6)
 
+<hr />
+
 ### TypeScript
 
 **Sites para pesquisa:**
@@ -87,6 +97,8 @@ Cursos completos e atuais de HTML5 e CSS3 do Curso em Vídeo
 
 -   [Glaucia Lemos: TypeScript - Zero to Hero](https://www.youtube.com/watch?v=u7K1sdnCv5Y&list=PLb2HQ45KP0Wsk-p_0c6ImqBAEFEY-LU9H)
 
+<hr />
+
 ### Git e GitHub
 
 **Sites para pesquisa:**
@@ -96,6 +108,8 @@ Cursos completos e atuais de HTML5 e CSS3 do Curso em Vídeo
 **Playlists de vídeo aulas:**
 
 -   [Curso em Vídeo: Curso de Git e GitHub](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+
+<hr />
 
 ### React
 
