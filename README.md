@@ -25,7 +25,7 @@ Para esse primeiro momento do clube, será explorado programação Web, começan
 O clube está aberto a todos os estudantes da escola interessados em programação, independentemente do nível de habilidade. Como um clube, devem comprometer-se a participar das atividades e reuniões, não é necessário participar de tudo, porém a participação é importante.
 Para fazer parte do clube, siga os seguintes passos:
 
-1. Preencha o formulário a seguir com o seu nome, série e número de telefone.
+1. Entre em contato com o líder do clube através do número +55 (83) 98640-4371 ou pelo Instagram do clube.
 
 2. Ao ser adicionado no grupo do clube no WhatsApp leia a descrição do grupo, terá informações importantes.
 
