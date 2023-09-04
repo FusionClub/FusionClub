@@ -44,9 +44,56 @@ Esses vídeos serão uma parte valiosa da nossa jornada para nos tornarmos progr
 
 <br />
 
-## Mapa de estudos
+## Roadmap
 
-Uma site incrível que gostaria de compartilhar é o https://roadmap.sh/. Ele oferece inúmeros mapas de estudos detalhados, sendo um roteiro claro sobre o que estudar em diversas áreas, um recurso valioso para quem busca direcionamento em seus estudos de tecnologia.
+Um roadmap é uma representação visual que descreve, de forma resumida, a trajetória planejada para alcançar metas ou objetivos ao longo do tempo, destacando marcos, fases e ações chave. É uma ferramenta eficaz para planejar e comunicar estratégias e projetos.
+E uma site incrível que gostaria de compartilhar é o https://roadmap.sh/. Nele encontrará inúmeros roadmaps, sendo um recurso valioso para quem busca direcionamento em seus estudos de tecnologia.
+
+## Extensões Recomendadas para o Visual Studio Code
+
+O Visual Studio Code (VS Code) é uma poderosa e flexível editor de códigos que pode ser amplamente personalizada com extensões para atender às necessidades específicas dos desenvolvedores para as diversas tecnologias disponíveis. Aqui estão algumas extensões que podem melhorar sua experiência de programação:
+
+### Documentação e Visualização:
+
+-   **[Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)**: Aprimora a visualização de documentos Markdown, pertimindo ver os seus arquivos Markdown (o README.md dos projetos por exemplo) dentro do VS Code.
+
+### Extensões para Formatação, visualização e Linting
+
+Caso esteja trabalhando com o JavaScript ou TypeScript, é essencial manter um código bem formatado e livre de erros. As extensões ESLint e Prettier são amplamente usadas para alcançar esse objetivo.
+
+-   **[ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)**: Verifica seu código em busca de erros, práticas ruins e problemas de estilo, ajudando a manter seu código limpo e de alta qualidade.
+
+-   **[Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)**: Automatiza a formatação do código, garantindo que seu código seja legível e siga as melhores práticas de estilo.
+
+-   **[Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)**: Faz a renomeação da tag HTML correspondente da que está editando.
+
+-   **[CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)**: Captura imagens do código que selecionar.
+
+-   **[Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)**: Destaca cores CSS em seu código.
+
+-   **[Console Ninja](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja)**: Mostra a saído do console JavaScript do lado do próprio console.
+
+-   **[Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)**: Permite visualizar imagens diretamente no editor, ajudando a saber se a URL que inseriu está correta ou não.
+
+### Gerenciamento de Código e Git:
+
+-   **[GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)**: Aprimora a integração do Git no VS Code, fornecendo informações detalhadas sobre o histórico de commits, autores e muito mais.
+
+### Linguagens de Programação e Frameworks
+
+-   **[PostCSS Language Support](https://marketplace.visualstudio.com/items?itemName=csstools.postcss)**: Suporte à linguagem PostCSS.
+
+-   **[Prisma](https://marketplace.visualstudio.com/items?itemName=Prisma.prisma)**: Oferece suporte aprimorado de Intellisense em arquivos Prisma, o que significa que terá sugestões de código, preenchimento automático e informações de documentação diretamente no seu editor.
+
+### Produtividade Geral
+
+-   **[Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)**: Simplifica a importação automática de módulos e classes, sugerindo preenchimentos automáticos, ajudando a adicionar facilmente imports necessários em seu código, economizando tempo e evitando erros de importação.
+
+-   **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)**: Inicia um servidor local para desenvolvimento web, permitindo que visualize seu site em tempo real enquanto faz alterações no código.
+
+### Temas e Estilos
+
+-   **[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)**: Adiciona ícones coloridos aos arquivos e pastas no VS Code para facilitar a identificação.
 
 <br />
 
