@@ -44,7 +44,7 @@ Esses vídeos serão uma parte valiosa da nossa jornada para nos tornarmos progr
 
 <br />
 
-## Roadmap
+## Roadmaps
 
 Um roadmap é uma representação visual que descreve, de forma resumida, a trajetória planejada para alcançar metas ou objetivos ao longo do tempo, destacando marcos, fases e ações chave. É uma ferramenta eficaz para planejar e comunicar estratégias e projetos.
 E uma site incrível que gostaria de compartilhar é o https://roadmap.sh/. Nele encontrará inúmeros roadmaps, sendo um recurso valioso para quem busca direcionamento em seus estudos de tecnologia.
@@ -57,7 +57,7 @@ O Visual Studio Code (VS Code) é uma poderosa e flexível editor de códigos qu
 
 -   **[Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)**: Aprimora a visualização de documentos Markdown, pertimindo ver os seus arquivos Markdown (o README.md dos projetos por exemplo) dentro do VS Code.
 
-### Extensões para Formatação, visualização e Linting
+### Extensões para Formatação, Visualização e Linting
 
 Caso esteja trabalhando com o JavaScript ou TypeScript, é essencial manter um código bem formatado e livre de erros. As extensões ESLint e Prettier são amplamente usadas para alcançar esse objetivo.
 
